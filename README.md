@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=%2Fxdaxer%2F&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=%2Fxdaxer%2F&countColor=%23263759)<br>
 <img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png" align="center">
 
 
