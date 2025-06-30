@@ -1,26 +1,50 @@
 ![Banner Image](images/banner.gif)
+
+# 🌊 Hi, I'm Abdullah!
+
+## 🌟 Current Project: X (Twitter) Clone
+
+>I am building a fully functional social media platform that replicates the core features of Twitter using React, modular SCSS, Socket.IO, Express.js, JWT, and SQLite. This project incorporates real-time messaging, user authentication, and database operations, allowing me to apply modern web technologies in practice.
+## 🚀 Tools and Technologies I Use
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Express](https://img.shields.io/badge/Express-%23000000.svg?e&logo=express&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Figma](https://img.shields.io/badge/figma-%23000000.svg?e&logo=figma&logoColor=white)
+ 
+
+
+## 👨‍💻 About Me
+
+I was born and live in Karaman. I am always curious, inquisitive, and eager to learn. I am currently a student at Iskenderun Technical University. I spend my days writing code, listening to music, or watching movies. I love doing all of these.
+
+## 🌱 Current Focus
+- X Clone
+- Learning Docker
+
+## 🎧 Currently Listening
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31m7r66ullogygluxeia3tvt4hhu&count=1)
+
+## 📫 Contact Me:
+
+<img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png">
+
+- Email: abdullahyirik@outlook.com
+- Linkedin: [Abdullah Yirik](https://www.linkedin.com/in/abdullahyirik/)
+
+
+
+
+
+## ⭐️ Developed with Love!
+
+
 ![View Counter](https://komarev.com/ghpvc/?username=xdaxer)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdullahyirik)
+> I do not make any financial profit from my software projects. If you like my projects and want to support me, you can motivate me by making a donation.
 
-<img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png" align="center">
-
-
-
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> &nbsp;
-
-  </p>
+ 
+ 
