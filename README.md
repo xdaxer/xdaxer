@@ -30,8 +30,7 @@ I was born and live in Karaman. I am always curious, inquisitive, and eager to l
 
 ## 📫 Contact Me:
 
-<img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png">
-
+[<img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png">](https://discord.com/users/1001904239058100265)
 - Email: abdullahyirik@outlook.com
 - Linkedin: [Abdullah Yirik](https://www.linkedin.com/in/abdullahyirik/)
 
