@@ -1,3 +1,5 @@
+![Banner Image](images/banner.gif)
+![View Counter](https://komarev.com/ghpvc/?username=xdaxer)
 
 <img src="https://discord.c99.nl/widget/theme-3/1001904239058100265.png" align="center">
 
